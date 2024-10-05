@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25612124377",
+    "project_id": "geolearn-2620d",
+    "storage_bucket": "geolearn-2620d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25612124377:android:b4dc3358ee99f043eafec8",
+        "android_client_info": {
+          "package_name": "com.example.geolearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd_mKefMdyzz8MioaRv_zc4aAwoDzJOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

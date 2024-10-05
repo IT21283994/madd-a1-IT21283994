@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GEOLearn</string>
+    <string name="sign_in">LoginPageUi</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_up">Sing Up</string>
+
+</resources>
