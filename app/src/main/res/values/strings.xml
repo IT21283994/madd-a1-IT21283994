@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GEOLearn</string>
+    <string name="sign_in">LoginPageUi</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="next">Next</string>
+    <string name="cultural">Cultural</string>
+    <string name="lets_play_this_to_enhance_your_knowledge">Lets play this to enhance your knowledge</string>
+    <string name="login_with_existing_user">Login with existing user</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">25612124377</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvd_mKefMdyzz8MioaRv_zc4aAwoDzJOw</string>
+    <string name="google_app_id" translatable="false">1:25612124377:android:b4dc3358ee99f043eafec8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvd_mKefMdyzz8MioaRv_zc4aAwoDzJOw</string>
+    <string name="google_storage_bucket" translatable="false">geolearn-2620d.appspot.com</string>
+    <string name="project_id" translatable="false">geolearn-2620d</string>
+</resources>
